@@ -1,19 +1,19 @@
 # SecurityUtility
 ## 1 Introduction
-This repo is mainly used to record some classical algorithms and their usage of security.
-Now the context mainly includes 2 parts:
-  Part 1, Already record:
-      PBKDF2(password-Based Key Derivation Function 2)
+This repo is mainly used to record some classical algorithms and their usage of security.  
+Now the context mainly includes 2 parts:  
+  Part 1, Already record:  
+      PBKDF2(password-Based Key Derivation Function 2)  
   Part 2,To be record:
       AES
       RSA
       ,,,
 ## 2 How to compiling?
 (1) The c program envrionment is necessary.
-    You can download gcc/gcc from the website： https://gcc.gnu.org/ and then install it to your local computer.
+    You can download gcc/gcc from the website： https://gcc.gnu.org/ and then install it to your local computer.  
     After the gcc has been installed, you can open the terminal(Mac/Linux) or Windows(CMD), 
     enter "python --version" to check whether it has been added to your computer. Any questions happen, you can 
-    ask the internet for help, the installing is not very difficult and there are many tutorials online.  
+    ask the internet for help, the installing is not very difficult and there are many tutorials online.    
 (2) Use "make" to build the project 
     The make envrionment will be installed when you installing gcc. 
     After successful installing, enter the rootpath in your terminal(Mac/Linux) or Windows(CMD), 

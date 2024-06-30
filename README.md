@@ -1,10 +1,10 @@
 # SecurityUtility
 ## 1 Introduction
 This repo is mainly used to record some classical algorithms and their usage of security.  
-Now the context mainly includes 2 parts:  
+Now the context mainly includes 2 parts:    
 * Part 1, Already record:  
       PBKDF2(password-Based Key Derivation Function 2)  
-* Part 2,To be record:
+* Part 2,To be record:  
       AES
       RSA
       ,,,

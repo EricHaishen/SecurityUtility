@@ -31,3 +31,5 @@ send e-mail: 1171213808@qq.com
 ## 6 How to download the code?
 (1)If you has installed the git software: enter a terminal , input "git clone https://github.com/EricHaishen/SecurityUtility.git"..
 (2)If you dont have the git environment buf you want to download, download it directly by click the link: https://github.com/EricHaishen/SecurityUtility/archive/refs/heads/main.zip
+
+增加中文

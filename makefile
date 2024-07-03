@@ -3,8 +3,7 @@
 # var for pre-target files 
 # chose a compiler
 # execute cmd
-#OBJS = main_test.o test.o my_stack.o#目标文件依赖文件
-#OBJS = *.o  #这里为什么不能在添加了新的c文件后，默认增加新的.o， 目前尚不清楚
+
 CC = gcc
 OBJS = main.o test.o pbkdf2.o
 

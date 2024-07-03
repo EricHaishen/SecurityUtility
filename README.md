@@ -33,3 +33,5 @@ send e-mail: 1171213808@qq.com
 (2)If you dont have the git environment buf you want to download, download it directly by click the link: https://github.com/EricHaishen/SecurityUtility/archive/refs/heads/main.zip
 
 增加中文
+## 1 介绍
+这个repo主要是用来记录一些常用的安全算法。
